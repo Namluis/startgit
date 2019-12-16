@@ -1,0 +1,2 @@
+# startgit
+introduce about github
